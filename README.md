@@ -7,4 +7,4 @@ ThinkPHP 5.0.x 多语言，SEO（URL）优化
 
 将WEB主目录设置到public文件夹后在浏览器打开即可
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1013/010250_29e26a3e_1834739.png "微信截图_20181013010119.png")
+![Image text](https://raw.github.com/zealotbinx/repositpry/master/thinkphp-5.0.x-language-search-engine-optimization/public/images/example.png)
